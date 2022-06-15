@@ -1,0 +1,19 @@
+@font-face {
+    font-family: IRANSans;
+    src: url('../fonts/IRANSans/IRANSansWeb_Light.woff') format('woff');
+}
+
+*{
+    direction: rtl;
+    text-align: right;
+    font-family: IranSans;
+}
+
+.bg-flower{
+    background-color:#754275;
+    color: #000;
+}
+
+.pointer{
+    cursor: pointer;
+}
